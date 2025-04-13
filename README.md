@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Lovable project By Syed Afseh Ehsani
 
 ## Project info
 
@@ -63,10 +63,6 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/6e8cd2f3-6d7c-481e-b9ba-155ae714cd07) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
