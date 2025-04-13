@@ -1,4 +1,4 @@
-# Welcome to your Lovable project By Syed Afseh Ehsani
+# Welcome to your Lovable AI Project By Syed Afseh Ehsani
 
 ## Project info
 
